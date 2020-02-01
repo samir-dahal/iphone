@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', 'sans-serif';
     user-select: none;
-    -ms-touch-action: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 h4 {
